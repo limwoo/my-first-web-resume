@@ -1,0 +1,65 @@
+img {
+	width: 10%;
+	height: auto;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+  vertical-align: -15px;
+}
+header {
+  color: white;
+  background: grey;
+  padding: 20px;
+  overflow: hidden;
+
+}
+#name {
+  float:left;
+}
+#contact {
+  margin-top: 70px;
+  font-size: 15px;
+  float:right;
+}
+
+ul{
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+  clear:both;
+  background: lightgrey;
+  margin: 0px;
+
+
+}
+u{
+  font-size: 20px;
+}
+
+dd{
+  margin: 10px;
+  margin-left: 20px;
+  font-size: 15px;
+  padding:5px;
+}
+
+dt{
+  margin-left: 40px;
+  font-size: 15px;
+}
+#details{
+  background: white;
+  border: 5px solid gray;
+  border-radius: 20px;
+  padding-left: 20px;
+  padding-right:20px;
+  padding-bottom: 20px;
+
+}
+#features{
+  margin-top: 25px;
+  padding-bottom: 90px;
+  border-width: 1px;
+  border-color: gray white white white;
+  border-style: dotted;
+}
